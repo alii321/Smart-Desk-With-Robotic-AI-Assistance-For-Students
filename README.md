@@ -35,8 +35,7 @@ Install dependencies
 📧 Contact
 
 For queries, contact:
-Muhammed Ali S – LinkedIn
- | Email
+Muhammed Ali S – muhammeddali.official@gmail.com
 
 pip install -r requirements.txt
 
